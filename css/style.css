@@ -1,0 +1,33 @@
+/*
+wood brown: A89F68;
+army green: 41521F;
+*/
+body { 
+   background-image: url('../img/brooke-lark-275181.jpg');
+   background-position: center;
+   background-size: cover;
+} 
+#formulario{
+	margin: 15%;
+	border-radius: 7px;
+	padding: 5%;
+	background-color: rgba(0,0,255, .6);
+}
+.form-group label{
+	color: #FFFFFF;
+}
+#datos{
+	color: #FFFFFF;
+	font-weight: 600;
+}
+#data{
+	color: #FFFFFF;
+	font-weight: 600;
+}
+.btnn-primary{
+    margin: 2%;
+}
+.text-center{
+	margin-bottom: 10px;
+}
+
